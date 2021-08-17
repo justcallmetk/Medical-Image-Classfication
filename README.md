@@ -10,8 +10,8 @@ distinguish images, detect objects and recognize faces.
 This current implementation of a CNN trains a tensorflow based CNN to detect
 abnormalities in chest x rays using a subset of the NIH chest X rays (C.X.R.). 
 This ML model in its final form will be able to process 
-medical images (xrays, ctscans , ekg etc.), train, learn, identify various images from different reigions 
-of the body and dectect abnormalities.
+medical images (xrays, ctscans , ekg etc.), train, learn, identify various images from different regions 
+of the body and detect abnormalities.
 
 # Medical-Image-Classfication
 
