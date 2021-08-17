@@ -37,11 +37,11 @@ Best model weights that we developed and saved during our
 training iterations  will be loaded into this to do that.
 
 # Tips
-Remember to Use Correct File Path in order to use NIH C.X.R. data 
+Remember to use Correct File Path in order to use NIH C.X.R. data 
 as well as import data to the Image Classification Inference file. 
 
 Refer to the requirements.txt file to ensure that you meet the requirements to
-implement scripts
+implement scripts.
 
 
 
