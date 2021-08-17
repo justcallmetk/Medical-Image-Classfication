@@ -18,16 +18,16 @@ of the body and detect abnormalities.
 In this project, you'll be using a subset of the National Institute of Health 
 chest X rays (C.X.R.) as our data set for training.
 
-For Now We will be using only two of the potential classes, effusion
+For now we will be using only two of the potential classes, effusion
 and no finding (no anomaly was detected).
 
 Effusion is a medical condition where liquid gets collected
 in lungs due to various diseases such as tuberculosis,
-pneumonia or even heart failure.
+pneumonia and heart failure.
 
 # Blockchain Implementation
 
-At this time, I am working on the Blockchain implementation via test networks and looking to improve the
+At this time, I am working on the Blockchain implementation via test networks.
 
 
 # Making Predictions in Inference 
