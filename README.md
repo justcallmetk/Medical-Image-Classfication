@@ -6,11 +6,11 @@ while using blockchain technology to ensure security and the integrity of the re
 
 The convolutional neural network, also known as convert nets
 or CNN's, is commonly used to identify patterns,
-distinguished images, detect objects and recognize faces.
+distinguish images, detect objects and recognize faces.
 
 
 This current implementation of a CNN trains a tensorflow based CNN to detect
-abnormalities in chest x rays. This Machine Learning(ML) model in its final form will be able to process 
+abnormalities in chest x rays. This ML model in its final form will be able to process 
 medical images (xrays, ctscans , ekg etc.), train, learn, identify various images from different reigions 
 of the body and classify images; give a diagnosis.
 
