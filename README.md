@@ -8,7 +8,7 @@ The convolutional neural network, also known as CNN's, is commonly used to ident
 distinguish images, detect objects and recognize faces.
 
 This current implementation of a CNN trains a tensorflow based CNN to detect
-abnormalities in chest x rays using a subset of the National Institute of Health chest x-rays (C.X.R.)
+abnormalities in chest x rays using a subset of the National Institute of Health's chest x-rays (C.X.R.)
 CXR Dataset: (https://www.kaggle.com/nih-chest-xrays/data )
 
 This ML model in its final form will be able to process 
