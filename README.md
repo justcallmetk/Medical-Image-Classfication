@@ -15,7 +15,7 @@ This ML model in its final form will be able to process
 medical images (x-rays, ctscans , ekg etc.), train, learn, identify various images from different regions 
 of the body and detect abnormalities.
 
-# Medical-Image-Classfication
+# Medical-Image-Classification
 
 In this project, you'll be using a subset of the National Institute of Health 
 chest X-rays (C.X.R.) as our data set for training. 
