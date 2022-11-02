@@ -84,8 +84,8 @@ threadpoolctl==2.1.0
 tifffile==2021.4.8
 toml==0.10.2
 typing-extensions==3.7.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 webrtcvad==2.0.10
 Werkzeug==2.0.1
-wheel==0.36.2
+wheel==0.38.0
 wrapt==1.12.1
