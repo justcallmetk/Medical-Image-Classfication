@@ -89,3 +89,4 @@ webrtcvad==2.0.10
 Werkzeug==2.2.3
 wheel==0.36.2
 wrapt==1.12.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
